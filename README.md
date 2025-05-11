@@ -4,3 +4,5 @@ for pratice github/git
 first day at office 
 <br>
 adding new paragraph
+<br>
+add colors to html paragraphs
