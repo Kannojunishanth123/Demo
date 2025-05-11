@@ -6,3 +6,6 @@ first day at office
 adding new paragraph
 <br>
 add colors to html paragraphs
+<br>
+new text lines of paragraphs
+
